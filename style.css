@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  color: rgb(235, 8, 8);
+}
+.main_picture {
+  width: 20px;
+  height: 20px;
+}
+
+.main_picture {
+  width: 20px;
+  height: 20px;
+}
+
+td,
+th {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+#education {
+  border-collapse: collapse;
+}
